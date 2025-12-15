@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lo-Fi Beat Maker</string>
+    <string name="title_activity_main">Lo-Fi Beat Maker</string>
+    <string name="package_name">com.yourname.lofimaker</string>
+    <string name="custom_url_scheme">com.yourname.lofimaker</string>
+</resources>
