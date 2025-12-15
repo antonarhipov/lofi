@@ -2,6 +2,8 @@
 
 A web-based lo-fi music generator built with React, Tone.js, and Tailwind CSS.
 
+![Lo-Fi Beat Maker](lofi.png)
+
 ## Features
 
 - 🥁 Classic boom-bap drum pattern with kick, snare, and hi-hats
